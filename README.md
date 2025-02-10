@@ -55,7 +55,7 @@ The dataset includes **244 instances**, divided into:
 
 
 7. **Deployment** 🚀  
-   - Deployed the Flask application for real-time usage.
+   - Deployed the Flask application for usage.
    <img width="1681" alt="Screenshot 2025-01-19 at 7 53 49 PM" src="https://github.com/user-attachments/assets/a4372d0e-6274-484e-bd15-35bde228ddba" />
  
 
