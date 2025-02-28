@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 from flask import Flask,render_template,jsonify,request
 
-Application= Flask(__name__)
-app=Application
+application= Flask(__name__)
+app=application
 
 Linear_model=pickle.load(open('/Users/angshumansmac/Desktop/Projects/ML_&_NLP_udemy/Resume_Worthy_Projects/Algerian_Forest/Models/Linear.pkl','rb'))
 standard_scaler=pickle.load(open('/Users/angshumansmac/Desktop/Projects/ML_&_NLP_udemy/Resume_Worthy_Projects/Algerian_Forest/Models/Scalar.pkl','rb'))
